@@ -31,7 +31,6 @@ int main() {
       printf("%d\n", same(x, y));
     else
       unite(x, y);
-      
   }
 
   return 0;
